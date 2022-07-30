@@ -1,4 +1,4 @@
-**Privacy Policy**
+### Privacy Policy
 
 Visiolion Inc. built the Sudoku JoNa app as a Free app. This SERVICE is provided by Visiolion Inc. at no cost and is intended for use as is.
 
